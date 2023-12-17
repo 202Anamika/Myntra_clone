@@ -1,2 +1,2 @@
 # Myntra_clone
-This is Myntra clone Frontend using HTML, CSS, JavaScript 
+This is Myntra clone using HTML, CSS, JavaScript (Frontend)
